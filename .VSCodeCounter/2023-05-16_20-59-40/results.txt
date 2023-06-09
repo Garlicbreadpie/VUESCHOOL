@@ -1,0 +1,78 @@
+Date : 2023-05-16 20:59:40
+Directory : c:\Users\Meneer Kipje\Documents\PaymentHubDashboard
+Total : 37 files,  5895 codes, 8 comments, 144 blanks, all 6047 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |      5,175 |          0 |          2 |      5,177 |
+| Vue        |         23 |        564 |          3 |        107 |        674 |
+| JavaScript |          5 |         65 |          5 |         16 |         86 |
+| TypeScript |          2 |         64 |          0 |         13 |         77 |
+| HTML       |          1 |         13 |          0 |          1 |         14 |
+| CSS        |          1 |          8 |          0 |          1 |          9 |
+| Markdown   |          1 |          4 |          0 |          4 |          8 |
+| XML        |          2 |          2 |          0 |          0 |          2 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |         37 |      5,895 |          8 |        144 |      6,047 |
+| . (Files)                                                                               |          7 |      5,222 |          2 |         14 |      5,238 |
+| public                                                                                  |          1 |          1 |          0 |          0 |          1 |
+| src                                                                                     |         29 |        672 |          6 |        130 |        808 |
+| src (Files)                                                                             |          2 |         27 |          2 |         25 |         54 |
+| src\assets                                                                              |          2 |          9 |          0 |          1 |         10 |
+| src\components                                                                          |         20 |        538 |          1 |         84 |        623 |
+| src\components (Files)                                                                  |          8 |        442 |          1 |         60 |        503 |
+| src\components\icons                                                                    |         12 |         96 |          0 |         24 |        120 |
+| src\routes                                                                              |          1 |         30 |          3 |          3 |         36 |
+| src\vieuws                                                                              |          4 |         68 |          0 |         17 |         85 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\README.md                           | Markdown   |          4 |          0 |          4 |          8 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\index.html                          | HTML       |         13 |          0 |          1 |         14 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\package-lock.json                   | JSON       |      5,147 |          0 |          1 |      5,148 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\package.json                        | JSON       |         28 |          0 |          1 |         29 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\postcss.config.js                   | JavaScript |          6 |          0 |          1 |          7 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\public\vite.svg                     | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\App.vue                         | Vue        |         22 |          2 |         19 |         43 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\assets\LOGO.svg                 | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\assets\style.css                | CSS        |          8 |          0 |          1 |          9 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\chart.ts             | TypeScript |         32 |          0 |          7 |         39 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\chart1.vue           | Vue        |         33 |          0 |          5 |         38 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\chart2.ts            | TypeScript |         32 |          0 |          6 |         38 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\dashboardSidebar.vue | Vue        |         39 |          0 |          1 |         40 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\Bank.vue       | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\Calender.vue   | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\Filter.vue     | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\Klok.vue       | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\LOO.vue        | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\Login.vue      | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\Logo.vue       | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\Logout.vue     | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\Payment.vue    | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\Setting.vue    | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\Shop.vue       | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\icons\Users.vue      | Vue        |          8 |          0 |          2 |         10 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\introKaart.vue       | Vue        |         29 |          0 |          8 |         37 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\overzicht.vue        | Vue        |         85 |          1 |         11 |         97 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\statusCards.vue      | Vue        |         47 |          0 |          6 |         53 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\components\userlist.vue         | Vue        |        145 |          0 |         16 |        161 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\main.js                         | JavaScript |          5 |          0 |          6 |         11 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\routes\index.js                 | JavaScript |         30 |          3 |          3 |         36 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\vieuws\Bankvieuw.vue            | Vue        |         27 |          0 |          5 |         32 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\vieuws\Homevieuw.vue            | Vue        |         17 |          0 |          3 |         20 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\vieuws\Settingsvieuw.vue        | Vue        |          8 |          0 |          3 |         11 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\src\vieuws\Usersvieuw.vue           | Vue        |         16 |          0 |          6 |         22 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\tailwind.config.js                  | JavaScript |         19 |          1 |          4 |         24 |
+| c:\Users\Meneer Kipje\Documents\PaymentHubDashboard\vite.config.js                      | JavaScript |          5 |          1 |          2 |          8 |
+| Total                                                                                   |            |      5,895 |          8 |        144 |      6,047 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
